@@ -1,0 +1,180 @@
+[
+    {
+        "name"      : "age",
+        "type"      : "numerical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "gender",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "db_year",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "height",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 1
+    },
+    {
+        "name"      : "weight",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 2
+    },
+    {
+        "name"      : "sbp",
+        "type"      : "numerical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "dbp",
+        "type"      : "numerical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "smok_ox",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "dm",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "hypertensive",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "hepatitis_b",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "hepatitis_c",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "alcohol",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "performance",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "encep",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "albumin",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 2
+    },
+    {
+        "name"      : "bilirubin",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 2
+    },
+    {
+        "name"      : "pt",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 2
+    },
+    {
+        "name"      : "pi",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 2
+    },
+    {
+        "name"      : "inr",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 3
+    },
+    {
+        "name"      : "creatinine",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 3
+    },
+    {
+        "name"      : "sodium",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 1
+    },
+    {
+        "name"      : "alt",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 1
+    },
+    {
+        "name"      : "platelet",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 2
+    },
+    {
+        "name"      : "afp",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 3
+    },
+    {
+        "name"      : "afp_1",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "i_t_case",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "ascites",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "tx1_name",
+        "type"      : "categorical",
+        "dtype"     : "object"
+    },
+    {
+        "name"      : "cps",
+        "type"      : "numerical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "meld",
+        "type"      : "numerical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "i_h_tnm_stage",
+        "type"      : "categorical",
+        "dtype"     : "object"
+    },
+    {
+        "name"      : "10_year_death_event",
+        "type"      : "categorical",
+        "dtype"     : "int",
+        "target"    : "True"
+    }
+]
