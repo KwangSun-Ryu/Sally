@@ -1,0 +1,12 @@
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==0.24.0
+catboost==1.2.2
+xgboost==1.7.6
+lightgbm==4.1.0
+sdv==1.2.1
+torch==2.0.1
+alive-progress==3.1.4
+sdmetrics==0.10.1
+seaborn==0.13.0
+matplotlib==3.7.2

@@ -1,0 +1,125 @@
+[
+    {
+        "name"      : "age",
+        "type"      : "numerical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "gender",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "height",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 1
+    },
+    {
+        "name"      : "weight",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 1
+    },
+    {
+        "name"      : "smoker",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "pack_year",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 1
+    },
+    {
+        "name"      : "ECOG",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "FVC",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 2
+    },
+    {
+        "name"      : "FEV1",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 2
+    },
+    {
+        "name"      : "DLCO",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 1
+    },
+    {
+        "name"      : "DLCO_percent",
+        "type"      : "numerical",
+        "dtype"     : "float",
+        "decimal"   : 1
+    },
+    {
+        "name"      : "squamous_cell_carcinoma",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "aden",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "large_cell",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "positive_EGFR_mutation",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "positive_ALK_IHC",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "positive_ALK_FISH",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "stage_simple",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "op_curative",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "RT",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "chemo_curative",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "chemo_palliative",
+        "type"      : "categorical",
+        "dtype"     : "int"
+    },
+    {
+        "name"      : "a_year_event",
+        "type"      : "categorical",
+        "dtype"     : "int",
+        "target"    : "True"
+    }
+]
